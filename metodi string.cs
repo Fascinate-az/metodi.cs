@@ -33,7 +33,7 @@ switch (input)
 Console.ReadKey();
 
 
-
+//string giorno diventa il valore stringa inserito tra le parentesi dello switch
 void GiornoSettimana(string giorno)
 {
     Console.WriteLine($"oggi è {giorno}");
